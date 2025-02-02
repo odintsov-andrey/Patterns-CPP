@@ -1,1 +1,13 @@
 # Patterns-CPP
+- Factory Method realization (https://github.com/stigmatta/FactoryMethodHW.git)
+- Abstract Factory realization (https://github.com/stigmatta/AbstractFactory.git)
+- Builder realization (https://github.com/stigmatta/AutoBuilder.git)
+- Decorator realization (https://github.com/stigmatta/Decorator.git)
+- Flyweight realization (https://github.com/stigmatta/Flyweight-Pattern.git)
+- Facade realization (https://github.com/stigmatta/Facade.git)
+- Composite realization (https://github.com/stigmatta/Composite.git)
+- Bridge realization (https://github.com/stigmatta/Bridge.git)
+- Strategy realization (https://github.com/stigmatta/Strategy.git)
+- Visitor realization (https://github.com/stigmatta/Visitor.git)
+- Memento realization (https://github.com/stigmatta/memento.git)
+- Spanning tree realization (https://github.com/stigmatta/SpanningTree.git)
